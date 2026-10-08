@@ -1,2 +1,2 @@
-# test-project
+# vibe-day1
 디지털창업서비스기획과마케팅 수업
